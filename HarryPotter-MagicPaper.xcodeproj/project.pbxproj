@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FF4056F92767B87C00F126BE /* harrypotter.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = FF4056F82767B87C00F126BE /* harrypotter.mp4 */; };
+		FF4056FA2767B87C00F126BE /* harrypotter.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = FF4056F82767B87C00F126BE /* harrypotter.mp4 */; };
+		FF4056FB2767B87C00F126BE /* harrypotter.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = FF4056F82767B87C00F126BE /* harrypotter.mp4 */; };
 		FFF412EA276120CA008D0339 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFF412E9276120CA008D0339 /* AppDelegate.swift */; };
 		FFF412EC276120CA008D0339 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = FFF412EB276120CA008D0339 /* art.scnassets */; };
 		FFF412EE276120CA008D0339 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFF412ED276120CA008D0339 /* ViewController.swift */; };
@@ -36,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FF4056F82767B87C00F126BE /* harrypotter.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = harrypotter.mp4; sourceTree = SOURCE_ROOT; };
 		FFF412E6276120CA008D0339 /* HarryPotter-MagicPaper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HarryPotter-MagicPaper.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFF412E9276120CA008D0339 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FFF412EB276120CA008D0339 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -98,6 +102,7 @@
 		FFF412E8276120CA008D0339 /* HarryPotter-MagicPaper */ = {
 			isa = PBXGroup;
 			children = (
+				FF4056F82767B87C00F126BE /* harrypotter.mp4 */,
 				FFF412E9276120CA008D0339 /* AppDelegate.swift */,
 				FFF412EB276120CA008D0339 /* art.scnassets */,
 				FFF412ED276120CA008D0339 /* ViewController.swift */,
@@ -231,6 +236,7 @@
 			files = (
 				FFF412EC276120CA008D0339 /* art.scnassets in Resources */,
 				FFF412F6276120CC008D0339 /* LaunchScreen.storyboard in Resources */,
+				FF4056F92767B87C00F126BE /* harrypotter.mp4 in Resources */,
 				FFF412F3276120CC008D0339 /* Assets.xcassets in Resources */,
 				FFF412F1276120CA008D0339 /* Main.storyboard in Resources */,
 			);
@@ -240,6 +246,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FF4056FA2767B87C00F126BE /* harrypotter.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -247,6 +254,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FF4056FB2767B87C00F126BE /* harrypotter.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
