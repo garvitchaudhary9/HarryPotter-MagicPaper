@@ -1,6 +1,6 @@
 # HarryPotter-MagicPaper
 
-An AR app which in which a video plays instead of images , Basically a clone of "Daily Prophet" newspaper that appeared in Harry Potter Series.
+An AR app which in which video plays instead of images , Basically a clone of "Daily Prophet" newspaper that appeared in Harry Potter Series.
 
 ## Initial Paper 
 
